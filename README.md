@@ -1,8 +1,9 @@
 AI-Agent-with-MCP-server/
-├── client/        # AI client (GenAI + MCP SDK)
-├── server/        # MCP server (Express + tools)
+├── client/
+├── server/
 ├── .gitignore
 └── README.md
+
 
 Tech Stack
 Server
